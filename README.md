@@ -9,7 +9,7 @@ Bem vindo ao meu projeto AlurMidi.
 
 * CSS
 
-* Flex-box
+* JavaScript
 
 ## Feito por:
 
